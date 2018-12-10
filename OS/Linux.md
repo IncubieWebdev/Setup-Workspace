@@ -1,4 +1,4 @@
-[!INSTRUCTIONS](https://img.shields.io/badge/Instruction-Beta-red.svg?logo=appveyor&style=for-the-badge)
+[![INSTRUCTIONS](https://img.shields.io/badge/Instruction-Beta-red.svg?logo=appveyor&style=for-the-badge)
 
 # SETUP Instructions
 
