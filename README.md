@@ -1,10 +1,9 @@
 # Setup-Workspace
 
 ## New in Incubie ?
+Welcome Incubie...
 
-Sebelum memulai Setup-Workspace mari baca terlebih dahulu Konfigurasi dibawah ini.
-
-Setup guides made for Incubie. Please Choose your Operating System (OS):
+Setup guides dibuat untuk Incubie Community. Silahkan pilih Operating System (OS) yang kalian gunakan :
 
 <table>
   <tr>
@@ -20,3 +19,6 @@ Setup guides made for Incubie. Please Choose your Operating System (OS):
     </td>
   </tr>
 </table>
+
+## Already done setup-workspace ?
+Then jump to [this guide](git-setup/git-setup.md)
