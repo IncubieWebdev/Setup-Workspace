@@ -4,7 +4,7 @@
 
 Instruksi SETUP ini akan membantu kalian untuk mempelajari web development Tutorial incubie dengan menggunakan tools berikut :
 
-* Pilih Text-Editor yang sering kalian gunakan.
+* Pilih Text-Editor yang biasa kalian gunakan.
 * Install Package Manager([pip](Link), [yarn](Link), [npm](Link))
 * Setup git & Github
 * Install [python], [NodeJS.]
