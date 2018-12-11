@@ -15,8 +15,8 @@ Apa kamu sudah membuat akun Github? Jika belum Maka [SignUp](https://github.com/
 
 ## CMDER
 * Download [cmder.7z](https://github.com/cmderdev/cmder/releases/download/v1.3.10/cmder.7z)(58mb).
-* Extract in C:\users\ $USER\
-* Buat shortcut dari 'cmder.exe', tempatkan shortcut ditempat yang kalian inginkan.
+* Extract in `C:\users\ $USER\ `
+* Buat shortcut dari `cmder.exe`, tempatkan shortcut ditempat yang kalian inginkan.
 
 ## Git
 dengan mengunakan cmder kalian sudah bisa menggunakan git
