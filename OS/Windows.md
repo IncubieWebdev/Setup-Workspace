@@ -5,7 +5,7 @@
 Instruksi SETUP ini akan membantu kalian untuk mempelajari web development Tutorial incubie dengan menggunakan tools berikut :
 
 * Pilih Text-Editor yang biasa kalian gunakan.
-* Download cmder(http://cmder.net/)
+* Download [cmder](http://cmder.net/)
 * Install Package Manager([pip](Link), [yarn](Link), [npm](Link))
 * Setup git & Github
 * Download & Install [python](https://www.python.org/downloads/windows/), [NodeJS.](https://nodejs.org/en/download/)
