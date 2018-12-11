@@ -36,6 +36,8 @@ sudo pacman -S git
 ```
 
 ## The best Text Editor to Start your journey...
+Pilih salah satu.
+
 ### Sublime Text 3 is good for you..
 * Ubuntu/Debian :
     ```bash
@@ -78,12 +80,12 @@ yaourt -S visual-studio-code-bin
 ```
 ### Atom is Powerfull enough..
 * Ubuntu/Debian :
-    ```bash
-    # Install Atom
-    sudo dpkg -i atom-amd64.deb
-    # Install Atom's dependencies if they are missing
-    sudo apt-get -f install
-    ```
+```bash
+# Install Atom
+sudo dpkg -i atom-amd64.deb
+# Install Atom's dependencies if they are missing
+sudo apt-get -f install
+```
 * Fedora/CentOS :
 ```bash
 # On YUM-based distributions
@@ -108,3 +110,51 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 ```
 
 Untuk setting selengkapnya check [disini](https://github.com/robbyrussell/oh-my-zsh).
+
+## Install pip, yarn & npm.
+* Ubuntu/Debian :
+    * Pip :
+    ```bash
+    apt install python3-pip
+    ```
+    * yarn :
+    ```bash
+    sudo apt-get update && sudo apt-get install yarn
+
+    ```
+    * npm :
+    ```bash
+    sudo apt update
+    sudo apt install nodejs npm
+    sudo apt install npm
+    ```
+* Fedora/CentOS :
+    * npm
+    ```bash
+    sudo dnf install npm
+    #or
+    sudo yum install npm
+    ```
+    * pip
+    ```bash
+    yum -y install python-pip
+    ```
+    * yarn
+    ```bash
+    npm install yarn
+    ```
+* Arch-Linux :
+    * npm
+    ```bash
+    sudo pacman -S npm
+    ```
+    * pip
+    ```bash
+    sudo pacman -S pip
+    ```
+    * yarn
+    ```bash
+    npm install yarn
+    ```
+
+### Good job youre done !
