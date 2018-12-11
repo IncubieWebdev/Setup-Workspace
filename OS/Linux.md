@@ -35,5 +35,76 @@ sudo yum install git
 sudo pacman -S git
 ```
 
-### Config git in github
+## The best Text Editor to Start your journey...
+### Sublime Text 3 is good for you..
+* Ubuntu/Debian :
+    ```bash
+    wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+    echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+    sudo apt-get update
+    sudo apt-get install sublime-text
+    ```
+* Fedora/CentOS :
+    ```bash
+    sudo dnf install sublime-text
+    # or
+    sudo yum install sublime-text
+    ```
+* Arch-Linux :
+    ```bash
+    sudo pacman -S sublime-text
+    ```
 
+### VSCode Powerfull and lightweight..
+* Ubuntu/Debian :
+download in [here](https://go.microsoft.com/fwlink/?LinkID=760868)
+```bash
+sudo dpkg -i <file>.deb
+sudo apt-get install -f # Install dependencies
+```
+* Fedora/CentOS :
+```bash
+sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo'
+dnf check-update
+sudo dnf install code
+# or
+yum check-update
+sudo yum install code
+```
+* Arch-Linux :
+```bash
+yaourt -S visual-studio-code-bin
+```
+### Atom is Powerfull enough..
+* Ubuntu/Debian :
+    ```bash
+    # Install Atom
+    sudo dpkg -i atom-amd64.deb
+    # Install Atom's dependencies if they are missing
+    sudo apt-get -f install
+    ```
+* Fedora/CentOS :
+```bash
+# On YUM-based distributions
+sudo yum install -y atom.x86_64.rpm
+# On DNF-based distributions
+sudo dnf install -y atom.x86_64.rpm
+```
+* Arch-Linux :
+```bash
+sudo pacman -S atom
+```
+
+## Oh-my-zsh - Fancy your Terminal
+#### via curl
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+#### via wget
+```bash
+sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+```
+
+Untuk setting selengkapnya check [disini](https://github.com/robbyrussell/oh-my-zsh).
