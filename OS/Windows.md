@@ -19,7 +19,7 @@ Apa kamu sudah membuat akun Github? Jika belum Maka [SignUp](https://github.com/
 * Buat shortcut dari 'cmder.exe', tempatkan shortcut ditempat yang kalian inginkan.
 
 ## Git
-dengan mengeunakan cmder kalian sudah bisa menggunakan git
+dengan mengunakan cmder kalian sudah bisa menggunakan git
 
 ## Text Editor to start your journey...
 
